@@ -1,6 +1,6 @@
 # Desafios de Projetos: Crie Um Portfólio Vencedor
 
-Parte do bootcamp Linux para Iniciantes, da DIO, este repositório destina-se à centralização de resumos do curso _Crie Um Portfólio Vencedor_.
+Parte do bootcamp Linux para Iniciantes, da [DIO](https://dio.me), este repositório destina-se à centralização de resumos do curso _Crie Um Portfólio Vencedor_.
 
 ## Resumos
 
